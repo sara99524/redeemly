@@ -1,0 +1,10 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =8
+let g:netrw_dirhist_1='/home/ec2-user/voucher-src/src/environment'
+let g:netrw_dirhist_2='/home/ec2-user/voucher-src/public'
+let g:netrw_dirhist_3='/home/ec2-user/voucher-src-test/src/shared'
+let g:netrw_dirhist_4='/home/ec2-user/voucher-src'
+let g:netrw_dirhist_5='/home/ec2-user/influencer-code/pages'
+let g:netrw_dirhist_6='/home/ec2-user/voucher-src-new/src/shared/filters'
+let g:netrw_dirhist_7='/home/ec2-user/voucher-src-new/src/shared/errors'
+let g:netrw_dirhist_8='/home/ec2-user/.acme.sh'

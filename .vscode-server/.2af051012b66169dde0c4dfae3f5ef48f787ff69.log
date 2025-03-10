@@ -1,0 +1,154 @@
+
+
+*
+* Visual Studio Code Server
+*
+* Reminder: You may only use this software with Visual Studio family products,
+* as described in the license https://aka.ms/vscode-remote/license
+*
+
+
+IP Address: 172.31.40.62
+Extension host agent listening on 46069
+
+
+[12:48:28] Extension host agent started.
+[12:48:29] [127.0.0.1][f5559a7b][ManagementConnection] New connection established.
+[12:48:29] [127.0.0.1][d87cd2da][ExtensionHostConnection] New connection established.
+bash: cannot set terminal process group (-1): Inappropriate ioctl for device
+bash: no job control in this shell
+[12:48:29] [127.0.0.1][d87cd2da][ExtensionHostConnection] <20936> Launched Extension Host Process.
+[12:48:59] [127.0.0.1][f5559a7b][ManagementConnection] The client has reconnected.
+[12:49:14] [127.0.0.1][d87cd2da][ExtensionHostConnection] The client has reconnected.
+[12:49:31] [127.0.0.1][f5559a7b][ManagementConnection] The client has reconnected.
+[12:50:02] [127.0.0.1][f5559a7b][ManagementConnection] The client has reconnected.
+[12:50:22] [127.0.0.1][d87cd2da][ExtensionHostConnection] The client has reconnected.
+[12:50:33] [127.0.0.1][f5559a7b][ManagementConnection] The client has reconnected.
+[12:51:02] [127.0.0.1][f5559a7b][ManagementConnection] The client has reconnected.
+[12:51:19] [127.0.0.1][d87cd2da][ExtensionHostConnection] The client has reconnected.
+[12:51:31] [127.0.0.1][f5559a7b][ManagementConnection] The client has reconnected.
+[12:52:00] [127.0.0.1][d87cd2da][ExtensionHostConnection] The client has reconnected.
+[12:52:01] [127.0.0.1][f5559a7b][ManagementConnection] The client has reconnected.
+[12:52:33] [127.0.0.1][f5559a7b][ManagementConnection] The client has reconnected.
+[12:52:34] [127.0.0.1][d87cd2da][ExtensionHostConnection] The client has reconnected.
+[12:53:03] [127.0.0.1][f5559a7b][ManagementConnection] The client has reconnected.
+[12:53:32] [127.0.0.1][f5559a7b][ManagementConnection] The client has reconnected.
+[12:53:53] [127.0.0.1][d87cd2da][ExtensionHostConnection] The client has reconnected.
+[12:54:02] [127.0.0.1][f5559a7b][ManagementConnection] The client has reconnected.
+[12:54:35] [127.0.0.1][f5559a7b][ManagementConnection] The client has reconnected.
+[12:55:05] [127.0.0.1][f5559a7b][ManagementConnection] The client has reconnected.
+[12:55:33] [127.0.0.1][d87cd2da][ExtensionHostConnection] The client has reconnected.
+[12:55:37] [127.0.0.1][f5559a7b][ManagementConnection] The client has reconnected.
+[12:56:14] [127.0.0.1][f5559a7b][ManagementConnection] The client has reconnected.
+[12:56:22] [127.0.0.1][d87cd2da][ExtensionHostConnection] The client has reconnected.
+[12:56:54] [127.0.0.1][f5559a7b][ManagementConnection] The client has reconnected.
+[12:57:32] [127.0.0.1][f5559a7b][ManagementConnection] The client has reconnected.
+[12:57:32] [127.0.0.1][d87cd2da][ExtensionHostConnection] The client has reconnected.
+[12:58:04] [127.0.0.1][f5559a7b][ManagementConnection] The client has reconnected.
+[12:58:35] [127.0.0.1][f5559a7b][ManagementConnection] The client has reconnected.
+[12:59:06] [127.0.0.1][f5559a7b][ManagementConnection] The client has reconnected.
+[12:59:38] [127.0.0.1][f5559a7b][ManagementConnection] The client has reconnected.
+[13:00:07] [127.0.0.1][f5559a7b][ManagementConnection] The client has reconnected.
+[13:00:39] [127.0.0.1][f5559a7b][ManagementConnection] The client has reconnected.
+[13:00:40] [127.0.0.1][d87cd2da][ExtensionHostConnection] The client has reconnected.
+[13:01:12] [127.0.0.1][f5559a7b][ManagementConnection] The client has reconnected.
+[13:01:42] [127.0.0.1][f5559a7b][ManagementConnection] The client has reconnected.
+[13:02:13] [127.0.0.1][f5559a7b][ManagementConnection] The client has reconnected.
+[13:02:45] [127.0.0.1][f5559a7b][ManagementConnection] The client has reconnected.
+[13:02:50] [127.0.0.1][d87cd2da][ExtensionHostConnection] The client has reconnected.
+[13:03:16] [127.0.0.1][f5559a7b][ManagementConnection] The client has reconnected.
+[13:03:47] [127.0.0.1][f5559a7b][ManagementConnection] The client has reconnected.
+[13:03:54] [127.0.0.1][d87cd2da][ExtensionHostConnection] The client has reconnected.
+[13:04:18] [127.0.0.1][f5559a7b][ManagementConnection] The client has reconnected.
+[13:04:49] [127.0.0.1][f5559a7b][ManagementConnection] The client has reconnected.
+[13:05:22] [127.0.0.1][f5559a7b][ManagementConnection] The client has reconnected.
+[13:06:02] [127.0.0.1][f5559a7b][ManagementConnection] The client has reconnected.
+[13:06:02] [127.0.0.1][d87cd2da][ExtensionHostConnection] The client has reconnected.
+[13:06:34] [127.0.0.1][f5559a7b][ManagementConnection] The client has reconnected.
+[13:07:09] [127.0.0.1][f5559a7b][ManagementConnection] The client has reconnected.
+[13:07:09] [127.0.0.1][d87cd2da][ExtensionHostConnection] The client has reconnected.
+[13:22:11] [127.0.0.1][f5559a7b][ManagementConnection] The client has reconnected.
+[13:22:11] [127.0.0.1][d87cd2da][ExtensionHostConnection] The client has reconnected.
+[13:22:42] [127.0.0.1][f5559a7b][ManagementConnection] The client has reconnected.
+[13:22:42] [127.0.0.1][d87cd2da][ExtensionHostConnection] The client has reconnected.
+[13:23:14] [127.0.0.1][f5559a7b][ManagementConnection] The client has reconnected.
+[13:23:49] [127.0.0.1][f5559a7b][ManagementConnection] The client has reconnected.
+[13:24:22] [127.0.0.1][f5559a7b][ManagementConnection] The client has reconnected.
+[13:24:55] [127.0.0.1][f5559a7b][ManagementConnection] The client has reconnected.
+[13:25:27] [127.0.0.1][f5559a7b][ManagementConnection] The client has reconnected.
+[13:26:04] [127.0.0.1][f5559a7b][ManagementConnection] The client has reconnected.
+[13:26:37] [127.0.0.1][f5559a7b][ManagementConnection] The client has reconnected.
+[13:27:09] [127.0.0.1][f5559a7b][ManagementConnection] The client has reconnected.
+[13:27:42] [127.0.0.1][f5559a7b][ManagementConnection] The client has reconnected.
+[13:28:19] [127.0.0.1][f5559a7b][ManagementConnection] The client has reconnected.
+[13:28:50] [127.0.0.1][f5559a7b][ManagementConnection] The client has reconnected.
+[13:29:10] [127.0.0.1][d87cd2da][ExtensionHostConnection] The client has reconnected.
+[13:29:22] [127.0.0.1][f5559a7b][ManagementConnection] The client has reconnected.
+[13:29:54] [127.0.0.1][f5559a7b][ManagementConnection] The client has reconnected.
+[13:30:25] [127.0.0.1][f5559a7b][ManagementConnection] The client has reconnected.
+[13:30:57] [127.0.0.1][f5559a7b][ManagementConnection] The client has reconnected.
+[13:31:27] [127.0.0.1][f5559a7b][ManagementConnection] The client has reconnected.
+[13:32:07] [127.0.0.1][f5559a7b][ManagementConnection] The client has reconnected.
+[13:32:40] [127.0.0.1][f5559a7b][ManagementConnection] The client has reconnected.
+[13:32:40] [127.0.0.1][d87cd2da][ExtensionHostConnection] The client has reconnected.
+[13:33:13] [127.0.0.1][f5559a7b][ManagementConnection] The client has reconnected.
+[13:33:47] [127.0.0.1][f5559a7b][ManagementConnection] The client has reconnected.
+[13:34:20] [127.0.0.1][f5559a7b][ManagementConnection] The client has reconnected.
+[13:34:51] [127.0.0.1][f5559a7b][ManagementConnection] The client has reconnected.
+[13:34:51] [127.0.0.1][d87cd2da][ExtensionHostConnection] The client has reconnected.
+[13:35:21] [127.0.0.1][f5559a7b][ManagementConnection] The client has reconnected.
+[13:36:02] [127.0.0.1][f5559a7b][ManagementConnection] The client has reconnected.
+[13:36:02] [127.0.0.1][d87cd2da][ExtensionHostConnection] The client has reconnected.
+[13:36:32] [127.0.0.1][f5559a7b][ManagementConnection] The client has reconnected.
+[13:37:13] [127.0.0.1][f5559a7b][ManagementConnection] The client has reconnected.
+[13:37:13] [127.0.0.1][d87cd2da][ExtensionHostConnection] The client has reconnected.
+[13:37:45] [127.0.0.1][f5559a7b][ManagementConnection] The client has reconnected.
+[13:38:15] [127.0.0.1][f5559a7b][ManagementConnection] The client has reconnected.
+[13:38:15] [127.0.0.1][d87cd2da][ExtensionHostConnection] The client has reconnected.
+[13:38:47] [127.0.0.1][f5559a7b][ManagementConnection] The client has reconnected.
+[13:39:21] [127.0.0.1][f5559a7b][ManagementConnection] The client has reconnected.
+[13:39:55] [127.0.0.1][f5559a7b][ManagementConnection] The client has reconnected.
+[13:40:30] [127.0.0.1][f5559a7b][ManagementConnection] The client has reconnected.
+[13:41:02] [127.0.0.1][f5559a7b][ManagementConnection] The client has reconnected.
+[13:41:40] [127.0.0.1][f5559a7b][ManagementConnection] The client has reconnected.
+[13:42:13] [127.0.0.1][f5559a7b][ManagementConnection] The client has reconnected.
+[13:42:46] [127.0.0.1][f5559a7b][ManagementConnection] The client has reconnected.
+[13:43:19] [127.0.0.1][f5559a7b][ManagementConnection] The client has reconnected.
+[13:43:37] [127.0.0.1][d87cd2da][ExtensionHostConnection] The client has reconnected.
+[13:43:49] [127.0.0.1][f5559a7b][ManagementConnection] The client has reconnected.
+[13:44:23] [127.0.0.1][f5559a7b][ManagementConnection] The client has reconnected.
+[13:44:58] [127.0.0.1][f5559a7b][ManagementConnection] The client has reconnected.
+[13:45:33] [127.0.0.1][f5559a7b][ManagementConnection] The client has reconnected.
+[13:46:04] [127.0.0.1][f5559a7b][ManagementConnection] The client has reconnected.
+[13:46:12] [127.0.0.1][d87cd2da][ExtensionHostConnection] The client has reconnected.
+[13:46:40] [127.0.0.1][f5559a7b][ManagementConnection] The client has reconnected.
+[13:47:16] [127.0.0.1][f5559a7b][ManagementConnection] The client has reconnected.
+[13:47:19] [127.0.0.1][f5559a7b][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+Error: Unexpected SIGPIPE
+    at process.<anonymous> (/home/ec2-user/.vscode-server/bin/2af051012b66169dde0c4dfae3f5ef48f787ff69/out/bootstrap.js:5:284)
+    at process.emit (events.js:223:5)
+[14:14:11] [127.0.0.1][4676c410][ManagementConnection] New connection established.
+[14:14:11] [127.0.0.1][df5d8cb7][ExtensionHostConnection] New connection established.
+[14:14:11] [127.0.0.1][df5d8cb7][ExtensionHostConnection] <29386> Launched Extension Host Process.
+[14:14:40] [127.0.0.1][4676c410][ManagementConnection] The client has reconnected.
+[14:15:09] [127.0.0.1][4676c410][ManagementConnection] The client has reconnected.
+[14:15:38] [127.0.0.1][4676c410][ManagementConnection] The client has reconnected.
+Error: Unexpected SIGPIPE
+    at process.<anonymous> (/home/ec2-user/.vscode-server/bin/2af051012b66169dde0c4dfae3f5ef48f787ff69/out/bootstrap.js:5:284)
+    at process.emit (events.js:223:5)
+[14:15:58] [127.0.0.1][4676c410][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...
+Error: Unexpected SIGPIPE
+    at process.<anonymous> (/home/ec2-user/.vscode-server/bin/2af051012b66169dde0c4dfae3f5ef48f787ff69/out/bootstrap.js:5:284)
+    at process.emit (events.js:223:5)
+[14:16:01] [127.0.0.1][4676c410][ManagementConnection] Another client has connected, will shorten the wait for reconnection 5m before disposing...
+[14:16:01] [127.0.0.1][4676c410][ManagementConnection] The client has reconnected.
+[14:16:30] [127.0.0.1][4676c410][ManagementConnection] The client has reconnected.
+[14:16:54] [127.0.0.1][df5d8cb7][ExtensionHostConnection] The client has reconnected.
+[14:16:59] [127.0.0.1][4676c410][ManagementConnection] The client has reconnected.
+[14:19:11] [127.0.0.1][d87cd2da][ExtensionHostConnection] <20936> Extension Host Process exited with code: 0, signal: null.
+[14:26:07] [127.0.0.1][4676c410][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[14:26:08] [127.0.0.1][df5d8cb7][ExtensionHostConnection] <29386> Extension Host Process exited with code: 0, signal: null.
+Last EH closed, waiting before shutting down
+[14:26:08] Last EH closed, waiting before shutting down
+Last EH closed, shutting down
+[14:31:08] Last EH closed, shutting down

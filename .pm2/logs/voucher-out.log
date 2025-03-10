@@ -1,0 +1,186 @@
+[2025-03-10 07:54:14] DEBUG Creating transport: nodemailer (6.5.0; +https://nodemailer.com/; SMTP/6.5.0[client:6.5.0])
+[32m[Nest] 26589   - [39m03/10/2025, 7:54:14 AM   [38;5;3m[Try connecting to the database] [39m[32mmongodb://Rodameelo:TqESL3!aW!vq[8hy@iad2-c12-1.mongo.objectrocket.com:52550,iad2-c12-2.mongo.objectrocket.com:52550,iad2-c12-0.mongo.objectrocket.com:52550/RedeemlyDB?replicaSet=01ac41853ef54d19a7c1da8c07d808d6[39m
+
+<--- Last few GCs --->
+
+[26589:0x4129ee0]  3119145 ms: Mark-sweep 4093.5 (4102.7) -> 4093.3 (4103.0) MB, 4488.7 / 0.0 ms  (average mu = 0.057, current mu = 0.001) allocation failure scavenge might not succeed
+
+
+<--- JS stacktrace --->
+
+==== JS stack trace =========================================
+
+    0: ExitFrame [pc: 0x13cf019]
+    1: StubFrame [pc: 0x135b4ea]
+Security context: 0x0cae66c008d1 <JSObject>
+    2: deserializeObject(aka deserializeObject) [0x3cf767418d9] [/home/ec2-user/voucher-src-new/node_modules/bson/lib/bson/parser/deserializer.js:~43] [pc=0x123939e67c2c](this=0x3de0909c04b1 <undefined>,0x10db1e9a1ea1 <Uint8Array map = 0x2744dd0a55a9>,326740,0x10db1e9a1e71 <Object map = 0x383b8af86f9>,0x3de0909c06e9 <false>)
+    3...
+
+[2025-03-10 08:46:21] DEBUG Creating transport: nodemailer (6.5.0; +https://nodemailer.com/; SMTP/6.5.0[client:6.5.0])
+[32m[Nest] 12339   - [39m03/10/2025, 8:46:21 AM   [38;5;3m[Try connecting to the database] [39m[32mmongodb://Rodameelo:TqESL3!aW!vq[8hy@iad2-c12-1.mongo.objectrocket.com:52550,iad2-c12-2.mongo.objectrocket.com:52550,iad2-c12-0.mongo.objectrocket.com:52550/RedeemlyDB?replicaSet=01ac41853ef54d19a7c1da8c07d808d6[39m
+[2025-03-10 09:15:37] DEBUG Creating transport: nodemailer (6.5.0; +https://nodemailer.com/; SMTP/6.5.0[client:6.5.0])
+[32m[Nest] 22488   - [39m03/10/2025, 9:15:37 AM   [38;5;3m[Try connecting to the database] [39m[32mmongodb://Rodameelo:TqESL3!aW!vq[8hy@iad2-c12-1.mongo.objectrocket.com:52550,iad2-c12-2.mongo.objectrocket.com:52550,iad2-c12-0.mongo.objectrocket.com:52550/RedeemlyDB?replicaSet=01ac41853ef54d19a7c1da8c07d808d6[39m
+
+<--- Last few GCs --->
+
+[22488:0x43b2ee0]  2201138 ms: Mark-sweep 4095.3 (4102.2) -> 4095.0 (4102.7) MB, 4427.7 / 0.0 ms  (average mu = 0.142, current mu = 0.000) allocation failure scavenge might not succeed
+[22488:0x43b2ee0]  2205348 ms: Mark-sweep 4095.7 (4102.7) -> 4095.3 (4102.9) MB, 4050.6 / 0.0 ms  (+ 85.5 ms in 11 steps since start of marking, biggest step 49.9 ms, walltime since start of marking 4209 ms) (average mu = 0.087, current mu = 0.017) alloca
+
+<--- JS stacktrace --->
+
+==== JS stack trace =========================================
+
+    0: ExitFrame [pc: 0x13cf019]
+    1: StubFrame [pc: 0x13551b7]
+    2: arguments adaptor frame: 1->2
+Security context: 0x1a863b8008d1 <JSObject>
+    3: sendAt [0x3c435fd63f79] [/home/ec2-user/voucher-src-new/node_modules/cron/lib/cron.js:156] [bytecode=0xe1ff40fd309 offset=156](this=0x123d465b6eb1 <CronTime map = 0xf59508a4929>,0x167555a004b1 <undefined>)
+    4: arguments adaptor frame: 0->1
+    5: getTimeout [0x3c435fd63eb9] [/home/ec2...
+
+[2025-03-10 09:52:20] DEBUG Creating transport: nodemailer (6.5.0; +https://nodemailer.com/; SMTP/6.5.0[client:6.5.0])
+[32m[Nest] 27926   - [39m03/10/2025, 9:52:20 AM   [38;5;3m[Try connecting to the database] [39m[32mmongodb://Rodameelo:TqESL3!aW!vq[8hy@iad2-c12-1.mongo.objectrocket.com:52550,iad2-c12-2.mongo.objectrocket.com:52550,iad2-c12-0.mongo.objectrocket.com:52550/RedeemlyDB?replicaSet=01ac41853ef54d19a7c1da8c07d808d6[39m
+
+<--- Last few GCs --->
+lo[27926:0x47a7ee0]  1357356 ms: Mark-sweep 4094.4 (4101.6) -> 4093.4 (4101.8) MB, 3767.6 / 0.0 ms  (+ 70.4 ms in 22 steps since start of marking, biggest step 22.2 ms, walltime since start of marking 3848 ms) (average mu = 0.143, current mu = 0.003) alloca[27926:0x47a7ee0]  1361413 ms: Mark-sweep 4094.6 (4101.8) -> 4093.9 (4101.8) MB, 3965.8 / 0.0 ms  (+ 74.3 ms in 19 steps since start of marking, biggest step 23.4 ms, walltime since start of marking 4057 ms) (average mu = 0.076, current mu = 0.004) alloca
+
+<--- JS stacktrace --->
+
+==== JS stack trace =========================================
+
+    0: ExitFrame [pc: 0x13cf019]
+    1: StubFrame [pc: 0x141846f]
+Security context: 0x103e7bf808d1 <JSObject>
+    2: _copy(aka _copy) [0xd9dad55d901] [buffer.js:~206] [pc=0x1442fc6de400](this=0x3789f40404b1 <undefined>,0x086e67801f59 <Uint8Array map = 0x236530f255a9>,0x0ded61255c41 <Uint8Array map = 0x236530f255a9>,0,103208,103220)
+    3: deserializeObject(aka deserializeObject) [0x15befa6fbf19] [/home/ec2-user/voucher-src-new/node_module...
+
+[2025-03-10 10:15:06] DEBUG Creating transport: nodemailer (6.5.0; +https://nodemailer.com/; SMTP/6.5.0[client:6.5.0])
+[32m[Nest] 28001   - [39m03/10/2025, 10:15:06 AM   [38;5;3m[Try connecting to the database] [39m[32mmongodb://Rodameelo:TqESL3!aW!vq[8hy@iad2-c12-1.mongo.objectrocket.com:52550,iad2-c12-2.mongo.objectrocket.com:52550,iad2-c12-0.mongo.objectrocket.com:52550/RedeemlyDB?replicaSet=01ac41853ef54d19a7c1da8c07d808d6[39m
+[2025-03-10 10:33:06] DEBUG Creating transport: nodemailer (6.5.0; +https://nodemailer.com/; SMTP/6.5.0[client:6.5.0])
+[32m[Nest] 28043   - [39m03/10/2025, 10:33:06 AM   [38;5;3m[Try connecting to the database] [39m[32mmongodb://Rodameelo:TqESL3!aW!vq[8hy@iad2-c12-1.mongo.objectrocket.com:52550,iad2-c12-2.mongo.objectrocket.com:52550,iad2-c12-0.mongo.objectrocket.com:52550/RedeemlyDB?replicaSet=01ac41853ef54d19a7c1da8c07d808d6[39m
+
+<--- Last few GCs --->
+oc[28043:0x31adee0]  1520063 ms: Mark-sweep 4096.4 (4105.9) -> 4094.7 (4106.1) MB, 3596.1 / 0.1 ms  (+ 345.1 ms in 437 steps since start of marking, biggest step 37.4 ms, walltime since start of marking 4063 ms) (average mu = 0.093, current mu = 0.030) allo[28043:0x31adee0]  1524133 ms: Mark-sweep 4096.9 (4106.1) -> 4095.7 (4106.9) MB, 3867.4 / 0.0 ms  (+ 161.8 ms in 35 steps since start of marking, biggest step 36.8 ms, walltime since start of marking 4070 ms) (average mu = 0.052, current mu = 0.010) alloc
+
+<--- JS stacktrace --->
+
+==== JS stack trace =========================================
+
+    0: ExitFrame [pc: 0x13555cd]
+Security context: 0x261e81c808d1 <JSObject>
+    1: slice [0x1904b463b189] [buffer.js:~606] [pc=0x3240f22df06](this=0x1904b463a6d1 <Object map = 0x1d4cc0e26099>,0x029444d6b099 <Uint8Array map = 0x1d4cc0e255a9>,178953,178979)
+    2: deserializeObject(aka deserializeObject) [0x189a12436f31] [/home/ec2-user/voucher-src-new/node_modules/bson/lib/bson/parser/deserializer.js:~43] [pc=0x3240f09a91e](this=0x2b0f442...
+
+[2025-03-10 10:58:28] DEBUG Creating transport: nodemailer (6.5.0; +https://nodemailer.com/; SMTP/6.5.0[client:6.5.0])
+[32m[Nest] 28126   - [39m03/10/2025, 10:58:28 AM   [38;5;3m[Try connecting to the database] [39m[32mmongodb://Rodameelo:TqESL3!aW!vq[8hy@iad2-c12-1.mongo.objectrocket.com:52550,iad2-c12-2.mongo.objectrocket.com:52550,iad2-c12-0.mongo.objectrocket.com:52550/RedeemlyDB?replicaSet=01ac41853ef54d19a7c1da8c07d808d6[39m
+[2025-03-10 11:23:35] DEBUG Creating transport: nodemailer (6.5.0; +https://nodemailer.com/; SMTP/6.5.0[client:6.5.0])
+[32m[Nest] 28237   - [39m03/10/2025, 11:23:35 AM   [38;5;3m[Try connecting to the database] [39m[32mmongodb://Rodameelo:TqESL3!aW!vq[8hy@iad2-c12-1.mongo.objectrocket.com:52550,iad2-c12-2.mongo.objectrocket.com:52550,iad2-c12-0.mongo.objectrocket.com:52550/RedeemlyDB?replicaSet=01ac41853ef54d19a7c1da8c07d808d6[39m
+
+<--- Last few GCs --->
+
+[28237:0x2fb0ee0]  2181460 ms: Mark-sweep 4094.3 (4101.2) -> 4093.9 (4101.5) MB, 3217.6 / 0.1 ms  (average mu = 0.175, current mu = 0.001) allocation failure scavenge might not succeed
+[28237:0x2fb0ee0]  2186680 ms: Mark-sweep 4094.6 (4101.5) -> 4094.3 (4101.7) MB, 5212.6 / 0.1 ms  (average mu = 0.079, current mu = 0.001) allocation failure scavenge might not succeed
+
+
+<--- JS stacktrace --->
+
+==== JS stack trace =========================================
+
+    0: ExitFrame [pc: 0x13cf019]
+    1: StubFrame [pc: 0x1417bb7]
+Security context: 0x11f9126008d1 <JSObject>
+    2: alloc [0x3ac9938bae31] [buffer.js:~370] [pc=0x9eaf5aeed97](this=0x06e25d73b689 <JSFunction Buffer (sfi = 0x10a1cedf9b29)>,12,0x01652abc04b1 <undefined>,0x01652abc04b1 <undefined>)
+    3: deserializeObject(aka deserializeObject) [0x1939514394c1] [/home/ec2-user/voucher-src-new/node_modules/bson/lib/bson/parser/deserializer.j...
+
+[2025-03-10 12:00:07] DEBUG Creating transport: nodemailer (6.5.0; +https://nodemailer.com/; SMTP/6.5.0[client:6.5.0])
+[32m[Nest] 28407   - [39m03/10/2025, 12:00:07 PM   [38;5;3m[Try connecting to the database] [39m[32mmongodb://Rodameelo:TqESL3!aW!vq[8hy@iad2-c12-1.mongo.objectrocket.com:52550,iad2-c12-2.mongo.objectrocket.com:52550,iad2-c12-0.mongo.objectrocket.com:52550/RedeemlyDB?replicaSet=01ac41853ef54d19a7c1da8c07d808d6[39m
+
+<--- Last few GCs --->
+
+[28407:0x433fee0]  1399176 ms: Mark-sweep 4093.7 (4100.8) -> 4092.3 (4099.9) MB, 3350.5 / 0.0 ms  (+ 173.3 ms in 28 steps since start of marking, biggest step 26.2 ms, walltime since start of marking 3716 ms) (average mu = 0.234, current mu = 0.232) alloc[28407:0x433fee0]  1399980 ms: Scavenge 4093.8 (4100.4) -> 4092.8 (4100.4) MB, 12.9 / 0.0 ms  (average mu = 0.234, current mu = 0.232) allocation failure 
+
+
+<--- JS stacktrace --->
+
+==== JS stack trace =========================================
+
+    0: ExitFrame [pc: 0x13cf019]
+    1: StubFrame [pc: 0x13f7fdd]
+Security context: 0x11a6046008d1 <JSObject>
+    2: filter [0x11a604615df9](this=0x27698f43fc49 <JSArray[162645]>,0x2147ff6801a9 <JSFunction (sfi = 0x2e24ffbd3c21)>)
+    3: _filterInvalidIds(aka _filterInvalidIds) [0x167861ab4eb1] [/home/ec2-user/voucher-src-new/node_modules/mongoose/lib/model.js:4624] [bytecode=0x2e24ffbd3d01 offset=22](this=0x007dde8404b1 <undefined>,0x276...
+
+[2025-03-10 12:23:31] DEBUG Creating transport: nodemailer (6.5.0; +https://nodemailer.com/; SMTP/6.5.0[client:6.5.0])
+[32m[Nest] 28482   - [39m03/10/2025, 12:23:31 PM   [38;5;3m[Try connecting to the database] [39m[32mmongodb://Rodameelo:TqESL3!aW!vq[8hy@iad2-c12-1.mongo.objectrocket.com:52550,iad2-c12-2.mongo.objectrocket.com:52550,iad2-c12-0.mongo.objectrocket.com:52550/RedeemlyDB?replicaSet=01ac41853ef54d19a7c1da8c07d808d6[39m
+[2025-03-10 12:54:52] DEBUG Creating transport: nodemailer (6.5.0; +https://nodemailer.com/; SMTP/6.5.0[client:6.5.0])
+[32m[Nest] 28626   - [39m03/10/2025, 12:54:52 PM   [38;5;3m[Try connecting to the database] [39m[32mmongodb://Rodameelo:TqESL3!aW!vq[8hy@iad2-c12-1.mongo.objectrocket.com:52550,iad2-c12-2.mongo.objectrocket.com:52550,iad2-c12-0.mongo.objectrocket.com:52550/RedeemlyDB?replicaSet=01ac41853ef54d19a7c1da8c07d808d6[39m
+
+<--- Last few GCs --->
+
+[28626:0x48fd950]  1568785 ms: Mark-sweep 4094.4 (4101.4) -> 4094.0 (4101.4) MB, 4176.8 / 0.1 ms  (average mu = 0.048, current mu = 0.001) allocation failure scavenge might not succeed
+
+
+<--- JS stacktrace --->
+
+==== JS stack trace =========================================
+
+Security context: 0x128f659008d1 <JSObject>
+    0: builtin exit frame: new Date(aka Date)(this=0x349a94ac0591 <the_hole>,0x31640a51a8d9 <HeapNumber 1.74137e+12>,0x349a94ac0591 <the_hole>)
+
+    1: ConstructFrame [pc: 0x138f9da]
+    2: deserializeObject(aka deserializeObject) [0x211950cb2f11] [/home/ec2-user/voucher-src-new/node_modules/bson/lib/bson/parser/deserializer.js:~43] [pc=0x35d705c3683](this=0x349a94ac04b1 <undefined>,0x14713542e9...
+
+[2025-03-10 13:21:02] DEBUG Creating transport: nodemailer (6.5.0; +https://nodemailer.com/; SMTP/6.5.0[client:6.5.0])
+[32m[Nest] 28764   - [39m03/10/2025, 1:21:02 PM   [38;5;3m[Try connecting to the database] [39m[32mmongodb://Rodameelo:TqESL3!aW!vq[8hy@iad2-c12-1.mongo.objectrocket.com:52550,iad2-c12-2.mongo.objectrocket.com:52550,iad2-c12-0.mongo.objectrocket.com:52550/RedeemlyDB?replicaSet=01ac41853ef54d19a7c1da8c07d808d6[39m
+
+<--- Last few GCs --->
+
+[28764:0x3c56950]  2553500 ms: Mark-sweep 4095.2 (4101.9) -> 4095.0 (4102.4) MB, 5672.6 / 0.0 ms  (average mu = 0.067, current mu = 0.000) allocation failure scavenge might not succeed
+
+
+<--- JS stacktrace --->
+
+==== JS stack trace =========================================
+
+    0: ExitFrame [pc: 0x140e819]
+    1: StubFrame [pc: 0x1457c6f]
+Security context: 0x39eb439c08d1 <JSObject>
+    2: _copy(aka _copy) [0xa03af82ff61] [buffer.js:~205] [pc=0x24801fb5d260](this=0x29cf039804b1 <undefined>,0x3670daf47e41 <Uint8Array map = 0x132a22265af9>,0x394bdd3c97b9 <Uint8Array map = 0x132a22265af9>,0,308627,308639)
+    3: deserializeObject(aka deserializeObject) [0x248a1e1ac161] [/home/ec2-user/voucher-src-new/node_module...
+
+[2025-03-10 14:03:41] DEBUG Creating transport: nodemailer (6.5.0; +https://nodemailer.com/; SMTP/6.5.0[client:6.5.0])
+[32m[Nest] 28918   - [39m03/10/2025, 2:03:41 PM   [38;5;3m[Try connecting to the database] [39m[32mmongodb://Rodameelo:TqESL3!aW!vq[8hy@iad2-c12-1.mongo.objectrocket.com:52550,iad2-c12-2.mongo.objectrocket.com:52550,iad2-c12-0.mongo.objectrocket.com:52550/RedeemlyDB?replicaSet=01ac41853ef54d19a7c1da8c07d808d6[39m
+
+<--- Last few GCs --->
+
+[28918:0x4c28950]  1270255 ms: Mark-sweep 4095.2 (4102.0) -> 4095.0 (4102.5) MB, 6766.7 / 0.1 ms  (average mu = 0.078, current mu = 0.000) allocation failure scavenge might not succeed
+
+
+<--- JS stacktrace --->
+
+==== JS stack trace =========================================
+
+Security context: 0x2793300c08d1 <JSObject>
+    0: builtin exit frame: new Date(aka Date)(this=0x1c7bd8600591 <the_hole>,0x2283070546c9 <HeapNumber 1.74083e+12>,0x1c7bd8600591 <the_hole>)
+
+    1: ConstructFrame [pc: 0x138f9da]
+    2: deserializeObject(aka deserializeObject) [0x1614e401539] [/home/ec2-user/voucher-src-new/node_modules/bson/lib/bson/parser/deserializer.js:~43] [pc=0x14cbf0f4ec63](this=0x1c7bd86004b1 <undefined>,0x38878b146b...
+
+[2025-03-10 14:25:04] DEBUG Creating transport: nodemailer (6.5.0; +https://nodemailer.com/; SMTP/6.5.0[client:6.5.0])
+[32m[Nest] 29049   - [39m03/10/2025, 2:25:04 PM   [38;5;3m[Try connecting to the database] [39m[32mmongodb://Rodameelo:TqESL3!aW!vq[8hy@iad2-c12-1.mongo.objectrocket.com:52550,iad2-c12-2.mongo.objectrocket.com:52550,iad2-c12-0.mongo.objectrocket.com:52550/RedeemlyDB?replicaSet=01ac41853ef54d19a7c1da8c07d808d6[39m
+
+<--- Last few GCs --->
+oc[29049:0x49e7950]  1022952 ms: Mark-sweep 4094.9 (4102.2) -> 4094.0 (4101.9) MB, 3343.1 / 0.1 ms  (+ 637.2 ms in 45 steps since start of marking, biggest step 504.7 ms, walltime since start of marking 4009 ms) (average mu = 0.120, current mu = 0.007) allo[29049:0x49e7950]  1026963 ms: Mark-sweep 4094.9 (4101.9) -> 4094.3 (4101.9) MB, 3951.4 / 0.1 ms  (+ 52.8 ms in 15 steps since start of marking, biggest step 29.3 ms, walltime since start of marking 4011 ms) (average mu = 0.062, current mu = 0.002) alloca
+
+<--- JS stacktrace --->
+
+==== JS stack trace =========================================
+
+    0: ExitFrame [pc: 0x140e819]
+    1: StubFrame [pc: 0x14573b7]
+Security context: 0x0dccd92808d1 <JSObject>
+    2: alloc [0x6ceb29f2451] [buffer.js:~369] [pc=0x2d2eef67a757](this=0x1c6cb27c2a51 <JSFunction Buffer (sfi = 0x6ceb29e80c9)>,12,0x0e5df09c04b1 <undefined>,0x0e5df09c04b1 <undefined>)
+    3: deserializeObject(aka deserializeObject) [0xf6f5b01bcc1] [/home/ec2-user/voucher-src-new/node_modules/bson/lib/bson/parser/deserializer.js:...
+
+[2025-03-10 14:42:15] DEBUG Creating transport: nodemailer (6.5.0; +https://nodemailer.com/; SMTP/6.5.0[client:6.5.0])
+[32m[Nest] 29266   - [39m03/10/2025, 2:42:15 PM   [38;5;3m[Try connecting to the database] [39m[32mmongodb://Rodameelo:TqESL3!aW!vq[8hy@iad2-c12-1.mongo.objectrocket.com:52550,iad2-c12-2.mongo.objectrocket.com:52550,iad2-c12-0.mongo.objectrocket.com:52550/RedeemlyDB?replicaSet=01ac41853ef54d19a7c1da8c07d808d6[39m

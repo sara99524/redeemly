@@ -1,0 +1,4 @@
+#!/bin/bash
+#mongo connect to object rokcket
+
+alias mongorocket='sudo mongo mongodb://ammarsaad95:1346798520@iad2-c12-1.mongo.objectrocket.com:52550,iad2-c12-2.mongo.objectrocket.com:52550,iad2-c12-0.mongo.objectrocket.com:52550/Redeemly?replicaSet=01ac41853ef54d19a7c1da8c07d808d6'

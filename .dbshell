@@ -1,0 +1,87 @@
+use RedeemlyDb
+db.productserials.find().pretty()
+show dbs
+use RedeemlyDB
+db.productserials.find().pretty()
+db.productserials.find({serial: "MBtZy-AAENpAAAfVvJtVPX"}).pretty()
+db.productserials.find({package: ObjectId("601e67db5c05161c9e488484"), isTaken: true}).pretty()
+db shows
+show dbs
+use RedeemlyDB
+db.getCollectionNames()
+db.vouchercodes.count()
+db.vouchercodes.find({package: ObjectId("601e67db5c05161c9e488484")}).count()
+db.vouchercodes.find({package: ObjectId("601e67db5c05161c9e488484")}).sort({datefield: 1}).pretty()
+db.vouchercodes.find({package: ObjectId("601e67db5c05161c9e488484")}).sort({datefield: -1}).pretty()
+db.vouchercodes.find({package: ObjectId("601e67db5c05161c9e488484")}).sort({createdAt: -1}).pretty()
+show dbs
+use RedeemlyDB
+db.packages.count()
+db.packages.find({_id: ObjectId("601e67db5c05161c9e488484")}).pretty()
+db.packages.updateOne({_id: ObjectId("601e67db5c05161c9e488484")}, {$set: {leftQuantity: 0}})
+db.packages.find({_id: ObjectId("601e67db5c05161c9e488484")}).pretty()
+show dbs
+use RedeemlyDB
+db.vouchercodes.count()
+db.vouchercode.count({package: ObjectId("5ff85be720548f36f69eee87")})
+db.vouchercodes.count({package: ObjectId("5ff85be720548f36f69eee87")})
+db.vouchercodes.count({package: ObjectId("5ff85be720548f36f69eee87"), isRedeemed: false})
+db.vouchercodes.count()
+use RedeemlyDB
+db.vouchercodes.count({package: ObjectId("5ff85be720548f36f69eee87"), isRedeemed: false})
+db.vouchercodes.find({package: ObjectId("5ff85be720548f36f69eee87"), isRedeemed: false})
+db.vouchercodes.find({package: ObjectId("5ff85be720548f36f69eee87"), isRedeemed: false}).pretty()
+db.vouchercodes.count({package: ObjectId("5ff85be720548f36f69eee87"), isRedeemed: false})
+use RedeemlyDB
+db.vouchercodes.count({package: ObjectId("5ff85be720548f36f69eee87"), code: "7afb91d6f7ee74a8ae4dcf8edd3666145b48184bbd81484643d527d1c3fba876"})
+db.vouchercodes.count({package: ObjectId("5ff85be720548f36f69eee87"), isRedeemed: false})
+db.vouchercodes.find({package: ObjectId("5ff85be720548f36f69eee87"), isRedeemed: false})
+db.vouchercodes.find({package: ObjectId("5ff85be720548f36f69eee87"), isRedeemed: false}).pretty()
+db.vouchercodes.count({package: ObjectId("5ff85be720548f36f69eee87"), code: "6e12bd7bf420c43a469e9cf6075b04821030b6c6badb5915feed95ae74a182df"})
+db.vouchercodes.count({code: "6e12bd7bf420c43a469e9cf6075b04821030b6c6badb5915feed95ae74a182df"})
+db.vouchercodes.count({code: "186e5adc826456e703e5cd2a80acb5122f1037f9063bf8c77523911dc080ce5e"})
+exite
+use RedeemlyDB
+db.vouchercodes.count({code: "a8bea939f7ffe169b551787f1aac74dc349068353a78cbfecc5a799bd6c3b5e7"})
+db.vouchercodes.find({code: "a8bea939f7ffe169b551787f1aac74dc349068353a78cbfecc5a799bd6c3b5e7"}).pretty()
+db.vouchercodes.find({}).pretty()
+db.vouchercodes.find({code: ""7afb91d6f7ee74a8ae4dcf8edd3666145b48184bbd81484643d527d1c3fba876}).pretty()
+db.vouchercodes.find({code: ""7afb91d6f7ee74a8ae4dcf8edd3666145b48184bbd81484643d527d1c3fba876"}).pretty()
+db.vouchercodes.find({code: "7afb91d6f7ee74a8ae4dcf8edd3666145b48184bbd81484643d527d1c3fba876"}).pretty()
+db.productserials.count({package: ObjectId("5ff85be720548f36f69eee87")})
+db.productserials.find({package: ObjectId("5ff85be720548f36f69eee87")}).pretty()
+db.productserials.find({package: ObjectId("5ff85be720548f36f69eee87"), serial: "5XEHPLNY58SU"}).pretty()
+db.productserials.find({package: ObjectId("5ff85be720548f36f69eee87"), serial: { $in : ["8Z1UROU26CMO", "0009M1Y1MUP", "5XEHPLNY58SU", "5XHNJWPALPD6", "90IYPFNW7F43", "90GBF3A1LCVJ", "96J0O4KL4N0O"] }}).pretty()
+show dbs
+user RedeemlyDB
+use RedeemlyDB
+db.vouchercodes.find().pretty()
+db.vouchercodes.find().sort({createdAt: -1}).pretty()
+db.vouchercodes.find().sort({"createdAt": -1}).pretty()
+db.vouchercodes.find({}, {createdAt: -1}).pretty()
+db.vouchercodes.find({createdAt: {$gt: ISODate("2021-04-08T13:12:11.812Z")}}).pretty()
+db.vouchercodes.size()
+db.vouchercodes.states()
+db.vouchercodes.stats()
+db.vouchercodes.dataSize()
+db.vouchercodes.count()
+db.dataSize()
+db.stats()
+db.stats(1024*1024*1024)
+show dbs
+show dbs
+use RedeemlyDB
+db.collactionNames()
+db.collectionNames()
+db.getCollectionNames()
+db.packages.find({_id: 61b8994a02313002eb70ce0b})
+db.packages.find({_id: ObjectId(61b8994a02313002eb70ce0b)})
+db.packages.find({_id: "ObjectId(61b8994a02313002eb70ce0b)"})
+db.packages.find()
+db.packages.find().pretty()
+db.packages.find({"_id": "ObjectId(61b8994a02313002eb70ce0b)"})
+db.packages.find({"_id": ObjectId("61b8994a02313002eb70ce0b")})
+db.packages.find({"_id": ObjectId("61b8994a02313002eb70ce0b")}).pretty()
+db.packages.update({"_id": ObjectId("61b8994a02313002eb70ce0b")}, {$set: {"serviceProvider": ObjectId("5f19fa0de0b98841b1eeb92a")}})
+db.packages.find({"_id": ObjectId("61b8994a02313002eb70ce0b")}).pretty()
+exite
